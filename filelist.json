@@ -1,0 +1,8 @@
+{
+    "top": "vospi_master",
+    "files":
+    ["vospi_master.sv"
+    ,"testbench.sv"
+    ,"nonsynth_clock_gen.sv"
+    ]
+}
