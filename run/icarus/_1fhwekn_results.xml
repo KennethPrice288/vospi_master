@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1718998486" />
-    <testcase name="run_test" classname="test_vospi_master" file="/Users/kennethprice/Documents/Personal_Projects/vospi_master/test_vospi_master.py" lineno="79" time="3.575068950653076" sim_time_ns="3201.517" ratio_time="895.5119591232394" />
-  </testsuite>
-</testsuites>
